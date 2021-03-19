@@ -1,1 +1,1 @@
-# KeepFit
+# Algorithm and Data Structures Quiz
