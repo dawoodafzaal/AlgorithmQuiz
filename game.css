@@ -1,5 +1,5 @@
 body{
-    color: #fff
+    color: #fff;
 }
 
 .choice-container{
@@ -61,6 +61,11 @@ body{
     overflow: hidden;
 }
 
+#progressBarFull{
+    height: 100%;
+    background: rgb(11,223,36);
+    width: 0%;
+}
 
 @media screen and (max-width: 768px){
     .choice-container{
